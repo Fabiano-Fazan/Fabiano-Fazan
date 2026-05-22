@@ -45,9 +45,9 @@ Frontend moderno para o sistema de joalheria, desenvolvido com **React**, **Vite
 
 ## 📊 Estatísticas
 
-![Fabiano GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiano-Fazan&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiano-Fazan&layout=compact)
+<p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabiano-Fazan&theme=tokyonight"/>
+</p>
 
 ## 📫 Contato
 
