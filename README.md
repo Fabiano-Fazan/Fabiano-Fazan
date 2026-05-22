@@ -2,7 +2,7 @@
 
 Desenvolvedor em evolução, focado em **Java, Spring Boot, React, PostgreSQL e Docker**.
 
-Atualmente estou criando projetos web completos, estudando backend, frontend, banco de dados, deploy e boas práticas de desenvolvimento.
+Atualmente estou estudando projetos web completos, backend, frontend, banco de dados, deploy e boas práticas de desenvolvimento.
 
 ---
 
@@ -17,21 +17,23 @@ Atualmente estou criando projetos web completos, estudando backend, frontend, ba
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ## 📌 Projetos em destaque
 
 ### 💎 joalheria-api
-
 API REST para sistema de joalheria desenvolvida com **Spring Boot**, **PostgreSQL**, autenticação com Google OAuth2, upload de imagens e integração com WhatsApp.
 
 ### 🐾 PetShop-Api
-
 API para gestão de pet shop, com cadastro de clientes, animais, veterinários, agendamentos, DTOs, MapStruct e validações.
 
 ### 🛍️ joalheria-frontend
-
 Frontend moderno para o sistema de joalheria, desenvolvido com **React**, **Vite** e foco em experiência mobile.
 
----
+</td>
+<td valign="top" width="45%">
 
 ## 📚 Estudando atualmente
 
@@ -41,18 +43,18 @@ Frontend moderno para o sistema de joalheria, desenvolvido com **React**, **Vite
 - Docker e PostgreSQL
 - Git e GitHub
 
----
-
 ## 📊 Estatísticas
 
 ![Fabiano GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiano-Fazan&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiano-Fazan&layout=compact&theme=tokyonight)
 
----
-
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-Fabiano--Fazan-181717?style=for-the-badge&logo=github)](https://github.com/Fabiano-Fazan)
+[![GitHub](https://img.shields.io/badge/GitHub-Fabiano--Fazan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabiano-Fazan)
 
 [![Email](https://img.shields.io/badge/Email-fabianofazan.softensistemas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianofazan.softensistemas@gmail.com)
+
+</td>
+</tr>
+</table>
