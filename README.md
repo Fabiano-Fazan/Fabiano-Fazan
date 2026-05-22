@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá, eu sou o Fabiano Fazan 👋
 
-<!--
-**Fabiano-Fazan/Fabiano-Fazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em evolução, focado em **Java, Spring Boot, React, PostgreSQL e Docker**.
 
-Here are some ideas to get you started:
+Atualmente estou criando projetos web completos, estudando backend, frontend, banco de dados, deploy e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### 💎 joalheria-api
+
+API REST para sistema de joalheria desenvolvida com **Spring Boot**, **PostgreSQL**, autenticação com Google OAuth2, upload de imagens e integração com WhatsApp.
+
+### 🐾 PetShop-Api
+
+API para gestão de pet shop, com cadastro de clientes, animais, veterinários, agendamentos, DTOs, MapStruct e validações.
+
+### 🛍️ joalheria-frontend
+
+Frontend moderno para o sistema de joalheria, desenvolvido com **React**, **Vite** e foco em experiência mobile.
+
+---
+
+## 📚 Estudando atualmente
+
+- Microsserviços com Spring Boot
+- Spring Security e OAuth2
+- Deploy de aplicações
+- Docker e PostgreSQL
+- Git e GitHub
+
+---
+
+## 📊 Estatísticas
+
+![Fabiano GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiano-Fazan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiano-Fazan&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-Fabiano--Fazan-181717?style=for-the-badge&logo=github)](https://github.com/Fabiano-Fazan)
+
+[![Email](https://img.shields.io/badge/Email-fabianofazan.softensistemas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianofazan.softensistemas@gmail.com)
