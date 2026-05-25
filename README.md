@@ -1,4 +1,3 @@
-# Olá, eu sou o Fabiano Fazan 👋
 
 Desenvolvedor em evolução, focado em **Java, Spring Boot, React, PostgreSQL e Docker**.
 
