@@ -42,30 +42,26 @@ Também venho explorando o desenvolvimento **Full Stack**, utilizando React no f
 
 ---
 
-# Projetos em Destaque
+#  Projetos em Destaque
 
 <div align="center">
 
 <a href="https://github.com/Fabiano-Fazan/joalheria-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Fazan&repo=joalheria-api&theme=gotham&hide_border=true" />
+  <img src="https://img.shields.io/badge/💎%20Joalheria%20API-161B22?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Fabiano-Fazan/joalheria-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Fazan&repo=joalheria-frontend&theme=gotham&hide_border=true" />
+  <img src="https://img.shields.io/badge/🛍️%20Joalheria%20Frontend-161B22?style=for-the-badge" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/Fabiano-Fazan/PetShop-Api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Fazan&repo=PetShop-Api&theme=gotham&hide_border=true" />
+  <img src="https://img.shields.io/badge/🐾%20PetShop%20API-161B22?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Fabiano-Fazan/barbearia-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Fazan&repo=barbearia-backend&theme=gotham&hide_border=true" />
+  <img src="https://img.shields.io/badge/💈%20Barbearia%20Backend-161B22?style=for-the-badge" />
 </a>
 
 </div>
