@@ -1,59 +1,181 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=200&section=header&text=Olá!%20Sou%20Fabiano%20Fazan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-Desenvolvedor em evolução, focado em **Java, Spring Boot, React, PostgreSQL e Docker**.
+<br>
 
-Atualmente estou estudando projetos web completos, backend, frontend, banco de dados, deploy e boas práticas de desenvolvimento.
+<div align="center">
 
----
+### 💻 Desenvolvedor Java | Back-end
 
-## 🚀 Tecnologias
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+## Sobre Mim
 
-## 📌 Projetos em destaque
+Olá! Sou **Fabiano Fazan**, desenvolvedor em constante evolução e apaixonado por tecnologia.
 
-### 💎 joalheria-api
-API REST para sistema de joalheria desenvolvida com **Spring Boot**, **PostgreSQL**, autenticação com Google OAuth2, upload de imagens e integração com WhatsApp.
+Sou uma pessoa **focada, curiosa e empenhada**, que gosta de entender como as coisas funcionam, enfrentar novos desafios e transformar aprendizado em projetos práticos.
 
-### 🐾 PetShop-Api
-API para gestão de pet shop, com cadastro de clientes, animais, veterinários, agendamentos, DTOs, MapStruct e validações.
+Atualmente, meu foco principal está no desenvolvimento **Back-end com Java e Spring Boot**, criando APIs REST e trabalhando com bancos de dados, autenticação e integrações.
 
-### 🛍️ joalheria-frontend
-Frontend moderno para o sistema de joalheria, desenvolvido com **React**, **Vite** e foco em experiência mobile.
+Também venho explorando o desenvolvimento **Full Stack**, utilizando React no frontend e Docker para ambientes de desenvolvimento.
 
-</td>
-<td valign="top" width="45%">
+### Meus principais focos
 
-## 📚 Estudando atualmente
+- ☕ **Back-end:** Java, Spring Boot, APIs REST e JPA/Hibernate
+- ⚛️ **Front-end:** React, TypeScript e Vite
+- 🗄️ **Banco de Dados:** PostgreSQL, MySQL e SQL
+- 🔐 **Segurança:** Spring Security e OAuth2
+- 🐳 **Infraestrutura:** Docker
+- 🔧 **Versionamento:** Git e GitHub
+- 📚 **Aprendizado:** boas práticas, arquitetura e desenvolvimento de aplicações
 
-- Microsserviços com Spring Boot
-- Spring Security e OAuth2
-- Deploy de aplicações
-- Docker e PostgreSQL
-- Git e GitHub
+>  **A curiosidade é a chave para a evolução.**
 
-## 📊 Estatísticas
+---
 
-<p>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabiano-Fazan&theme=tokyonight"/>
+## Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,typescript,vite,postgres,mysql,docker,git,github,idea&perline=7" />
 </p>
 
-## 📫 Contato
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Fabiano--Fazan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabiano-Fazan)
+# Projetos em Destaque
 
-[![Email](https://img.shields.io/badge/Email-fabianofazan.softensistemas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianofazan.softensistemas@gmail.com)
+<div align="center">
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/Fabiano-Fazan/joalheria-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Fazan&repo=joalheria-api&theme=gotham&hide_border=true" />
+</a>
+
+<a href="https://github.com/Fabiano-Fazan/joalheria-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Fazan&repo=joalheria-frontend&theme=gotham&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Fabiano-Fazan/PetShop-Api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Fazan&repo=PetShop-Api&theme=gotham&hide_border=true" />
+</a>
+
+<a href="https://github.com/Fabiano-Fazan/barbearia-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Fazan&repo=barbearia-backend&theme=gotham&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 💎 Joalheria API
+
+API REST desenvolvida com **Java + Spring Boot + PostgreSQL**, com recursos de autenticação, upload de imagens e integração com serviços externos.
+
+**Principais tecnologias:**
+
+`Java` `Spring Boot` `PostgreSQL` `OAuth2` `REST API`
+
+🔗 [Ver projeto](https://github.com/Fabiano-Fazan/joalheria-api)
+
+---
+
+## 🐾 PetShop API
+
+API para gerenciamento de um PetShop, trabalhando com clientes, animais, veterinários e agendamentos.
+
+O projeto utiliza **DTOs, MapStruct e validações**.
+
+**Principais tecnologias:**
+
+`Java` `Spring Boot` `JPA` `MapStruct` `Validation`
+
+🔗 [Ver projeto](https://github.com/Fabiano-Fazan/PetShop-Api)
+
+---
+
+## 🛍️ Joalheria Frontend
+
+Frontend desenvolvido com **React + Vite**, pensado para oferecer uma experiência moderna e responsiva.
+
+**Principais tecnologias:**
+
+`React` `TypeScript` `Vite`
+
+🔗 [Ver projeto](https://github.com/Fabiano-Fazan/joalheria-frontend)
+
+---
+
+## 💈 Barbearia Backend
+
+Backend desenvolvido em **Java** para um sistema de gerenciamento de barbearia.
+
+**Tecnologia principal:**
+
+`Java`
+
+🔗 [Ver projeto](https://github.com/Fabiano-Fazan/barbearia-backend)
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabiano-Fazan&theme=gotham" height="180em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabiano-Fazan&theme=gotham" height="180em"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fabiano-Fazan&theme=gotham&hide_border=true"/>
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+<div align="center">
+
+🔹 Spring Boot  
+🔹 Spring Security & OAuth2  
+🔹 Docker  
+🔹 PostgreSQL  
+🔹 Arquitetura de aplicações  
+🔹 Boas práticas de desenvolvimento  
+🔹 Deploy de aplicações
+
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/Fabiano-Fazan">
+  <img src="https://img.shields.io/badge/GitHub-Fabiano--Fazan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/fabiano-fazan-02430111a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!;Vamos+conectar!+%F0%9F%91%8B;Sempre+aprendendo+evoluindo+%F0%9F%9A%80" alt="Typing SVG">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
