@@ -18,15 +18,18 @@ Sou uma pessoa curiosa, focada e empenhada, e gosto de entender não apenas como
 
 Atualmente venho desenvolvendo projetos envolvendo:
 
-☕ Java e Spring Boot
-🌐 APIs REST
-🗃️ JPA / Hibernate
-🐘 PostgreSQL
-🔐 Spring Security e OAuth2
-🐳 Docker
-🧪 Testes automatizados
-🏗️ Arquitetura e boas práticas
-🛠️ Tecnologias e Ferramentas
+- ☕ **Java e Spring Boot**
+- 🌐 **APIs REST**
+- 🗃️ **JPA / Hibernate**
+- 🐘 **PostgreSQL**
+- 🔐 **Spring Security e OAuth2**
+- 🐳 **Docker**
+- 🧪 **Testes automatizados**
+- 🏗️ **Arquitetura e boas práticas**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
