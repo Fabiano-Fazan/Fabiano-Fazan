@@ -64,35 +64,37 @@ Docker • Git • GitHub • Maven • IntelliJ IDEA
 
 <img src="https://streak-stats.demolab.com?user=Fabiano-Fazan&theme=gotham&hide_border=true" height="170em" alt="GitHub Streak"/>
 
-</div>
-
-📚 Atualmente estudando
+## 📚 Atualmente estudando
 
 <div align="center">
 
-☕ Java
-🌱 Spring Boot
-🔐 Spring Security & OAuth2
-🐳 Docker
-🐘 PostgreSQL
-🧪 Testes automatizados
-🏗️ Arquitetura de Software
-📐 Boas práticas e Clean Code
+☕ <b>Java</b><br>
+🌱 <b>Spring Boot</b><br>
+🔐 <b>Spring Security & OAuth2</b><br>
+🐳 <b>Docker</b><br>
+🐘 <b>PostgreSQL</b><br>
+🧪 <b>Testes automatizados</b><br>
+🏗️ <b>Arquitetura de Software</b><br>
+📐 <b>Boas práticas e Clean Code</b>
 
 </div>
 
-📫 Vamos nos conectar?
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
-<a href="https://github.com/Fabiano-Fazan"> <img src="https://img.shields.io/badge/GitHub-Fabiano--Fazan-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://github.com/Fabiano-Fazan">
+  <img src="https://img.shields.io/badge/GitHub-Fabiano--Fazan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<a href="https://www.linkedin.com/in/fabiano-fzn/"> <img src="https://img.shields.io/badge/LinkedIn-Fabiano%20Fazan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/fabiano-fzn/">
+  <img src="https://img.shields.io/badge/LinkedIn-Fabiano%20Fazan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<b>Obrigado pela visita! 👋</b>
 
 </div>
-
-<br>
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!;Desenvolvedor+Java+Back-end+em+evolução+☕;Sempre+aprendendo+e+construindo+🚀" alt="Typing SVG"> </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
