@@ -23,7 +23,6 @@ Também venho explorando o desenvolvimento **Full Stack**, utilizando React no f
 ### Meus principais focos
 
 - ☕ **Back-end:** Java, Spring Boot, APIs REST e JPA/Hibernate
-- ⚛️ **Front-end:** React, TypeScript e Vite
 - 🗄️ **Banco de Dados:** PostgreSQL, MySQL e SQL
 - 🔐 **Segurança:** Spring Security e OAuth2
 - 🐳 **Infraestrutura:** Docker
@@ -37,7 +36,7 @@ Também venho explorando o desenvolvimento **Full Stack**, utilizando React no f
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,typescript,vite,postgres,mysql,docker,git,github,idea&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,idea&perline=7" />
 </p>
 
 ---
